@@ -1,0 +1,23 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2008
+
+Project("{534F61A6-E51D-E4D1-B831-865D9BCFC0FE}") = "move box redo", "Assembly-CSharp.csproj", "{93434ED2-C42C-AD58-AFE6-45BF41C62D9A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{93434ED2-C42C-AD58-AFE6-45BF41C62D9A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{93434ED2-C42C-AD58-AFE6-45BF41C62D9A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{93434ED2-C42C-AD58-AFE6-45BF41C62D9A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{93434ED2-C42C-AD58-AFE6-45BF41C62D9A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal
